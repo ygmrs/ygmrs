@@ -1,16 +1,23 @@
-## Hi there 👋
+## Hi, I'm Yagmur 👋
 
-<!--
-**ygmrs/ygmrs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Staff Software Engineer · LLM & Agent Systems · Distributed Systems & Cloud**
+**AI, Software & Platform Engineering · Hands-On Technical Leader**
 
-Here are some ideas to get you started:
+I'm a software engineer with 15+ years building production systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I've built end to end across multiple languages and technology stacks:
+AI systems, architecture, backend, full-stack, platform engineering, cloud,
+and distributed systems.
+
+- 🔭 Building AI and agentic systems zero to one: AI agents, multi-agent
+  orchestration, MCP, A2A, LLM systems, evaluation, security and governance
+- 🧠 Current focus: taking AI systems from prototype to production, with the
+  reliability, scale, and cost tradeoffs that come with it
+- 🏗️ Built and shipped production systems across AI platforms, SaaS, iPaaS,
+  distributed systems, workflow automation, no-code, cybersecurity, fintech,
+  and large-scale government platforms
+- 📄 Five U.S. patents across AI, platform, and software engineering
+- 🎓 IEEE Senior Member, North Jersey Section. Deep learning research
+  published at IEEE
+- 📫 [LinkedIn](https://www.linkedin.com/in/yagmur-engineer/) ·
+  ✍️ [Medium](https://medium.com/@yagmur.sahin)
