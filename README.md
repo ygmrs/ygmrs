@@ -1,6 +1,5 @@
 ## Hi, I'm Yagmur 👋
 
-**Staff Software Engineer · Hands-On Technical Leader**  
 **AI, Software & Platform Engineering · LLM & Agent Systems**
 
 I'm a software engineer with 15+ years building production systems.
